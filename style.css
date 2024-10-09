@@ -1,0 +1,16 @@
+.letraazul{
+  color: blue;
+}
+
+.listElement{
+  cursor: pointer;
+}
+
+.storage-form{
+  border: solid 1px black;
+  padding: 8px 20px;
+}
+
+.storage{
+  margin-top: 20px;
+}
